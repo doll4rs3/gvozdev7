@@ -19,3 +19,6 @@
     <h2>10. Микросервисы</h2>
     <p>Классы: Service, API, Database, MessageQueue, LoadBalancer, Client. Балансировка нагрузки.</p>
    <img src="screenshots/1.png">
+   <img src="screenshots/2.png">
+      <img src="screenshots/3.png">
+         <img src="screenshots/4.png">
