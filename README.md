@@ -18,4 +18,4 @@
     <p>Классы: Transaction, Account, Currency, ExchangeRate, Budget, Report. Валюты, бюджет.</p>
     <h2>10. Микросервисы</h2>
     <p>Классы: Service, API, Database, MessageQueue, LoadBalancer, Client. Балансировка нагрузки.</p>
-    <igm src="screenshots/1.png">
+   <img src="screenshots/1.png">
